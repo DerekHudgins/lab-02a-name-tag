@@ -1,0 +1,38 @@
+h1 {
+    background-color: red;
+    font-style: bold;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    
+}
+
+h2 {
+    background-color: red;
+}
+
+p1 {
+    background-color: white;
+    text-emphasis-style: cursive;
+    
+
+}
+body {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    justify-content: center;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+
+}
+.outerdiv {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
