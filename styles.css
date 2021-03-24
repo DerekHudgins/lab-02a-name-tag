@@ -1,38 +1,42 @@
 h1 {
-    background-color: red;
     font-style: bold;
     display: flex;
     justify-content: center;
-    position: absolute;
-    left: 100px;
-    top: 150px;
-    
+    margin: 0%;
 }
 
 h2 {
-    background-color: red;
+    margin: 0;
+    text-align: center;
 }
 
-p1 {
+p {
     background-color: white;
-    text-emphasis-style: cursive;
+    font-style: italic;
+    text-align: center;
+    font-size: 2em;
     
-
 }
-body {
-    position: absolute;
-    left: 100px;
-    top: 150px;
-    justify-content: center;
-    position: absolute;
-    left: 100px;
-    top: 150px;
 
-}
 .outerdiv {
     display: flex;
     justify-content: center;
-    position: absolute;
-    left: 100px;
-    top: 150px;
+    flex-direction: column;
+    width: 50%;
+
+    
+}
+footer {
+    background-color: red;
+    height: 30px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+header {
+    color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: red;
+
+
 }
